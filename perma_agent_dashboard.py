@@ -36,7 +36,7 @@ for record in filtered:
         st.markdown(f"**📄 Filename:** `{record['filename']}`")
         st.markdown(f"📝 **Summary:** {record['summary']}")
         st.markdown(f"🔗 **CID:** `{record['cid']}`")
-        st.markdown(f"📥 [View on IPFS](https://ipfs.io/ipfs/{record['cid']})")
+        st.markdown(f"📥 [View on IPFS](https://gateway.lighthouse.storage/ipfs/{record['cid']})")
         st.markdown(f"🕒 Uploaded: `{record['timestamp']}`")
         st.divider()
 
