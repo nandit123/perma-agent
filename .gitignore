@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Logs and metadata (optional: remove if you want to version them)
+metadata_log.json
+failed_uploads.json
+
+# Jupyter notebooks (if added later)
+.ipynb_checkpoints/
+
+# Streamlit cache
+.streamlit/

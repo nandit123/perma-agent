@@ -1,0 +1,8 @@
+langchain-openai
+langchain-unstructured
+langchain-community
+watchdog
+openai
+streamlit
+requests
+python-dotenv
